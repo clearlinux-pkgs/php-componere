@@ -4,7 +4,7 @@
 #
 Name     : php-componere
 Version  : 3.1.1
-Release  : 2
+Release  : 3
 URL      : https://pecl.php.net/get/componere-3.1.1.tgz
 Source0  : https://pecl.php.net/get/componere-3.1.1.tgz
 Summary  : No detailed summary available
